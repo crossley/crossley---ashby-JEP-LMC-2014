@@ -1,0 +1,153 @@
+Subject Number       Block Number         Trials per Block     Accuracy             Best Model by BIC    BIC Score            Best Model by NLL    NLL Score           
+1                    1                    100                  0.6900000000         Unidimensional X     96.8889134264        Unidimensional X     43.8392865272       
+1                    2                    100                  0.7200000000         Unidimensional X     111.9577241510       Equal GLC            50.5620930387       
+1                    3                    100                  0.7100000000         Unidimensional X     78.2813840532        Equal GLC            32.7541856025       
+1                    4                    100                  0.7100000000         Unidimensional X     76.3194767052        Equal GLC            33.5510575937       
+1                    5                    100                  0.6400000000         Unidimensional X     114.4922816555       Unidimensional X     52.6409706418       
+1                    6                    100                  0.6600000000         Unidimensional X     98.5836964794        Unidimensional X     44.6866780537       
+1                    7                    100                  0.6800000000         Unidimensional X     89.6926272589        Equal GLC            40.1829647077       
+1                    8                    100                  0.6500000000         Unidimensional X     123.7924873614       Equal GLC            57.2649520957       
+2                    1                    100                  0.7300000000         Unidimensional X     102.1856086398       Unidimensional X     46.4876341339       
+2                    2                    100                  0.6500000000         Unidimensional X     120.2770577969       Unidimensional X     55.5333587125       
+2                    3                    100                  0.6700000000         Unidimensional X     125.8477993586       Equal GLC            57.5947944731       
+2                    4                    100                  0.7300000000         Unidimensional X     110.3078798993       Unidimensional X     50.5487697637       
+2                    5                    100                  0.6300000000         Unidimensional X     118.8195474463       Equal GLC            54.6450656259       
+2                    6                    100                  0.8200000000         Equal GLC            109.7044895830       Equal GLC            47.9444895125       
+2                    7                    100                  0.6600000000         Unidimensional X     133.9347938381       Equal GLC            61.1161885768       
+2                    8                    100                  0.6600000000         Unidimensional X     126.3724396594       Unidimensional X     58.5810496437       
+3                    1                    100                  0.6800000000         Unidimensional X     108.3119435690       Equal GLC            49.5353543691       
+3                    2                    100                  0.7700000000         Equal GLC            107.9782374088       Equal GLC            47.0813634254       
+3                    3                    100                  0.7900000000         Equal GLC            98.9449518724        Equal GLC            42.5647206572       
+3                    4                    100                  0.8400000000         Equal GLC            94.2823722016        Equal GLC            40.2334308218       
+3                    5                    100                  0.8700000000         Equal GLC            55.2411057736        Equal GLC            20.7127976078       
+3                    6                    100                  0.8800000000         Equal GLC            65.0786578079        Equal GLC            25.6315736250       
+3                    7                    100                  0.8100000000         Equal GLC            78.5799484189        Equal GLC            32.3822189305       
+3                    8                    100                  0.8600000000         Equal GLC            73.8150111257        Equal GLC            29.9997502838       
+4                    1                    100                  0.7600000000         Equal GLC            117.0096076076       Equal GLC            51.5970485248       
+4                    2                    100                  0.7600000000         Unidimensional Y     100.4190205877       Equal GLC            43.8725449839       
+4                    3                    100                  0.7400000000         Unidimensional Y     94.7693317649        Equal GLC            41.3500755783       
+4                    4                    100                  0.7600000000         Equal GLC            86.3398396424        Equal GLC            36.2621645422       
+4                    5                    100                  0.7700000000         Unidimensional Y     91.1550759738        Equal GLC            39.2949286117       
+4                    6                    100                  0.7400000000         Unidimensional Y     80.4781066446        Equal GLC            35.3615027877       
+4                    7                    100                  0.6900000000         Equal GLC            86.8284853013        Equal GLC            36.5064873717       
+4                    8                    100                  0.7200000000         Equal GLC            94.2784281795        Equal GLC            40.2314588108       
+5                    1                    100                  0.4800000000         Biased Guessing      128.4253030711       Biased Guessing      61.9100664426       
+5                    2                    100                  0.4500000000         Biased Guessing      136.3963063226       Biased Guessing      65.8955680683       
+5                    3                    100                  0.5600000000         Biased Guessing      136.3963063226       Biased Guessing      65.8955680683       
+5                    4                    100                  0.4700000000         Guessing             138.6294361120       Biased Guessing      69.2346967090       
+5                    5                    100                  0.5400000000         Guessing             138.6294361120       Biased Guessing      68.9943758458       
+5                    6                    100                  0.5100000000         Guessing             138.6294361120       Biased Guessing      67.6858546735       
+5                    7                    100                  0.5000000000         Guessing             138.6294361120       Biased Guessing      69.2947167224       
+5                    8                    100                  0.5200000000         Guessing             138.6294361120       Biased Guessing      69.1346099002       
+6                    1                    100                  0.5900000000         Guessing             138.6294361120       Biased Guessing      68.9943758458       
+6                    2                    100                  0.5700000000         Guessing             138.6294361120       Biased Guessing      68.5929800252       
+6                    3                    100                  0.5300000000         Guessing             138.6294361120       Biased Guessing      68.5929800252       
+6                    4                    100                  0.6500000000         Guessing             138.6294361120       Equal GLC            67.8547357900       
+6                    5                    100                  0.5800000000         Guessing             138.6294361120       Equal GLC            68.4868129661       
+6                    6                    100                  0.4900000000         Guessing             138.6294361120       Biased Guessing      69.2346967090       
+6                    7                    100                  0.5400000000         Guessing             138.6294361120       Equal GLC            68.0339115322       
+6                    8                    100                  0.7200000000         Unidimensional Y     119.1928416188       Equal GLC            52.9216259832       
+7                    1                    100                  0.6000000000         Guessing             138.6294361120       Biased Guessing      67.3011667009       
+7                    2                    100                  0.4400000000         Guessing             138.6294361120       Equal GLC            66.4475281247       
+7                    3                    100                  0.4700000000         Guessing             138.6294361120       Biased Guessing      68.8138813714       
+7                    4                    100                  0.5000000000         Biased Guessing      137.4179954988       Biased Guessing      66.4064126564       
+7                    5                    100                  0.5500000000         Biased Guessing      138.3547875563       Biased Guessing      66.8748086852       
+7                    6                    100                  0.4000000000         Guessing             138.6294361120       Equal GLC            66.3866740692       
+7                    7                    100                  0.7300000000         Unidimensional X     85.3334335102        Equal GLC            36.7474811060       
+7                    8                    100                  0.6900000000         Unidimensional X     100.7126954453       Equal GLC            44.6590799549       
+8                    1                    100                  0.5200000000         Unidimensional X     137.6449424199       Equal GLC            63.1484078574       
+8                    2                    100                  0.5900000000         Unidimensional X     120.3557854944       Equal GLC            55.4694483426       
+8                    3                    100                  0.6700000000         Unidimensional Y     128.8481800503       Equal GLC            58.4006174639       
+8                    4                    100                  0.5800000000         Unidimensional Y     135.9320743945       Equal GLC            61.6702177877       
+8                    5                    100                  0.6400000000         Unidimensional Y     123.0605930805       Equal GLC            56.5371619622       
+8                    6                    100                  0.6400000000         Equal GLC            131.9654649682       Equal GLC            59.0749772051       
+8                    7                    100                  0.5700000000         Unidimensional X     108.4959366851       Equal GLC            49.6232857752       
+8                    8                    100                  0.6300000000         Unidimensional X     111.3817861309       Equal GLC            48.8292700417       
+21                   1                    100                  0.7200000000         Equal GLC            123.1477557512       Equal GLC            54.6661225966       
+21                   2                    100                  0.6800000000         Equal GLC            123.3984499907       Equal GLC            54.7914697164       
+21                   3                    100                  0.8200000000         Equal GLC            86.5755285468        Equal GLC            36.3800089944       
+21                   4                    100                  0.8200000000         Equal GLC            77.7142849961        Equal GLC            31.9493872191       
+21                   5                    100                  0.8300000000         Equal GLC            66.0678182016        Equal GLC            26.1261538218       
+21                   6                    100                  0.9000000000         Equal GLC            36.9948866407        Equal GLC            11.5896880414       
+21                   7                    100                  0.8100000000         Equal GLC            75.9099706792        Equal GLC            31.0472300606       
+21                   8                    100                  0.8400000000         Equal GLC            60.3400104973        Equal GLC            23.2622499697       
+22                   1                    100                  0.5600000000         Unidimensional Y     130.3688292523       Equal GLC            60.4196413678       
+22                   2                    100                  0.6200000000         Biased Guessing      135.2888091447       Unidimensional Y     63.9831719978       
+22                   3                    100                  0.4900000000         Biased Guessing      136.3963063226       Biased Guessing      65.8955680683       
+22                   4                    100                  0.5400000000         Guessing             138.6294361120       Biased Guessing      68.0292000192       
+22                   5                    100                  0.6000000000         Guessing             138.6294361120       Equal GLC            67.5455536061       
+22                   6                    100                  0.6300000000         Guessing             138.6294361120       Equal GLC            64.7321109008       
+22                   7                    100                  0.6600000000         Equal GLC            129.3075718451       Equal GLC            57.7460306436       
+22                   8                    100                  0.7400000000         Equal GLC            116.1642687038       Equal GLC            51.1743790729       
+41                   1                    100                  0.7800000000         Equal GLC            97.1584534492        Equal GLC            41.6714714456       
+41                   2                    100                  0.8800000000         Equal GLC            71.9405660674        Equal GLC            29.0625277547       
+41                   3                    100                  0.8400000000         Equal GLC            79.2861901446        Equal GLC            32.7353397933       
+41                   4                    100                  0.8200000000         Equal GLC            85.5943257311        Equal GLC            35.8894075866       
+41                   5                    100                  0.9000000000         Equal GLC            63.8533038391        Equal GLC            25.0188966406       
+41                   6                    100                  0.9000000000         Equal GLC            61.8497421658        Equal GLC            24.0171158039       
+41                   7                    100                  0.8100000000         Equal GLC            85.0188674834        Equal GLC            35.6016784627       
+41                   8                    100                  0.8600000000         Equal GLC            97.9883022151        Equal GLC            42.0863958286       
+42                   1                    100                  0.7100000000         Equal GLC            125.6387295919       Equal GLC            55.9116095170       
+42                   2                    100                  0.7800000000         Equal GLC            101.6234682427       Equal GLC            43.9039788424       
+42                   3                    100                  0.9000000000         Equal GLC            61.0844123931        Equal GLC            23.6344509176       
+42                   4                    100                  0.7400000000         Equal GLC            99.3226934201        Equal GLC            42.7535914311       
+42                   5                    100                  0.8100000000         Equal GLC            92.3106972219        Equal GLC            39.2475933319       
+42                   6                    100                  0.7900000000         Equal GLC            106.2368802224       Equal GLC            46.2106848322       
+42                   7                    100                  0.7800000000         Equal GLC            81.5129053058        Equal GLC            33.8486973739       
+42                   8                    100                  0.7600000000         Equal GLC            91.2903031621        Equal GLC            38.7373963020       
+43                   1                    100                  0.4900000000         Unidimensional X     136.4925240468       Equal GLC            63.6362417136       
+43                   2                    100                  0.5700000000         Unidimensional X     111.3569223831       Equal GLC            51.0638299930       
+43                   3                    100                  0.5600000000         Unidimensional X     136.2477843757       Equal GLC            63.3714149043       
+43                   4                    100                  0.6700000000         Unidimensional X     119.7604742688       Unidimensional X     55.2750669484       
+43                   5                    100                  0.6600000000         Unidimensional X     121.6824740352       Equal GLC            56.0971463012       
+43                   6                    100                  0.6300000000         Unidimensional X     121.9248088067       Equal GLC            54.8843804265       
+43                   7                    100                  0.7100000000         Unidimensional X     104.6475062240       Equal GLC            47.5061715914       
+43                   8                    100                  0.6600000000         Unidimensional X     129.0284669215       Equal GLC            59.5450626697       
+44                   1                    100                  0.6900000000         Equal GLC            112.3292209198       Equal GLC            49.2568551809       
+44                   2                    100                  0.8000000000         Equal GLC            101.9372365441       Equal GLC            44.0608629931       
+44                   3                    100                  0.7000000000         Equal GLC            100.4063210184       Equal GLC            43.2954052302       
+44                   4                    100                  0.6500000000         Guessing             138.6294361120       Equal GLC            64.0842794322       
+44                   5                    100                  0.6800000000         Equal GLC            131.4068033105       Equal GLC            58.7956463763       
+44                   6                    100                  0.6200000000         Guessing             138.6294361120       Equal GLC            63.6025112155       
+44                   7                    100                  0.7300000000         Equal GLC            115.0440485722       Equal GLC            50.6142690071       
+44                   8                    100                  0.6700000000         Equal GLC            122.4372517628       Equal GLC            54.3108706024       
+101                  1                    100                  0.6300000000         Equal GLC            136.9136867673       Equal GLC            61.5490881047       
+101                  2                    100                  0.6300000000         Unidimensional X     114.6720007281       Unidimensional X     52.7308301781       
+101                  3                    100                  0.7400000000         Equal GLC            108.5811652821       Equal GLC            47.3828273621       
+101                  4                    100                  0.8200000000         Equal GLC            85.1797104083        Equal GLC            35.6820999252       
+101                  5                    100                  0.8400000000         Equal GLC            81.5182388387        Equal GLC            33.8513641404       
+101                  6                    100                  0.8500000000         Equal GLC            81.4503458035        Equal GLC            33.8174176227       
+101                  7                    100                  0.8800000000         Equal GLC            82.6097449602        Equal GLC            34.3971172011       
+101                  8                    100                  0.8400000000         Equal GLC            86.8757870475        Equal GLC            36.5301382448       
+102                  1                    100                  0.6900000000         Unidimensional X     120.4742504028       Equal GLC            55.2348976182       
+102                  2                    100                  0.8400000000         Equal GLC            80.3856815500        Equal GLC            33.2850854960       
+102                  3                    100                  0.7300000000         Equal GLC            106.2938690738       Equal GLC            46.2391792579       
+102                  4                    100                  0.7500000000         Equal GLC            103.6926726669       Equal GLC            44.9385810545       
+102                  5                    100                  0.6500000000         Unidimensional X     126.9594579597       Unidimensional X     58.8745587939       
+102                  6                    100                  0.7000000000         Equal GLC            123.5993754004       Equal GLC            54.8919324212       
+102                  7                    100                  0.5700000000         Biased Guessing      134.0944979929       Biased Guessing      64.7446639035       
+102                  8                    100                  0.6400000000         Equal GLC            130.5959024828       Equal GLC            58.3901959624       
+103                  1                    100                  0.7200000000         Equal GLC            114.7685815866       Equal GLC            50.4765355143       
+103                  2                    100                  0.7800000000         Equal GLC            98.1123997909        Equal GLC            42.1484446165       
+103                  3                    100                  0.8500000000         Equal GLC            78.5443069479        Equal GLC            32.3643981950       
+103                  4                    100                  0.8100000000         Equal GLC            76.3646096160        Equal GLC            31.2745495290       
+103                  5                    100                  0.8100000000         Equal GLC            90.7622861254        Equal GLC            38.4733877837       
+103                  6                    100                  0.8100000000         Equal GLC            87.6406529865        Equal GLC            36.9125712143       
+103                  7                    100                  0.8000000000         Equal GLC            93.4879674117        Equal GLC            39.8362284269       
+103                  8                    100                  0.7900000000         Equal GLC            96.8958653058        Equal GLC            41.5401773739       
+104                  1                    100                  0.5400000000         Unidimensional Y     124.2281291634       Equal GLC            57.1942507852       
+104                  2                    100                  0.6000000000         Unidimensional X     123.8193141590       Equal GLC            57.2365771490       
+104                  3                    100                  0.6500000000         Unidimensional X     117.1356698039       Unidimensional X     53.9626647160       
+104                  4                    100                  0.5300000000         Biased Guessing      136.3963063226       Biased Guessing      65.8955680683       
+104                  5                    100                  0.5400000000         Guessing             138.6294361120       Biased Guessing      68.3314913574       
+104                  6                    100                  0.5300000000         Biased Guessing      138.3547875563       Biased Guessing      66.8748086852       
+104                  7                    100                  0.4600000000         Guessing             138.6294361120       Biased Guessing      69.1346099002       
+104                  8                    100                  0.5600000000         Guessing             138.6294361120       Biased Guessing      68.9943758458       
+105                  1                    100                  0.7400000000         Unidimensional X     67.9773268661        Equal GLC            29.3515839871       
+105                  2                    100                  0.7600000000         Unidimensional X     61.4423294964        Equal GLC            26.1054380667       
+105                  3                    100                  0.7100000000         Unidimensional X     69.4947048890        Equal GLC            29.6387471118       
+105                  4                    100                  0.6700000000         Unidimensional X     98.3847357034        Equal GLC            43.7773619557       
+105                  5                    100                  0.6500000000         Unidimensional X     111.7583961170       Equal GLC            51.1237489322       
+105                  6                    100                  0.7300000000         Unidimensional X     116.2751015306       Unidimensional X     53.5323805793       
+105                  7                    100                  0.7800000000         Equal GLC            102.0704632321       Equal GLC            44.1274763371       
+105                  8                    100                  0.7600000000         Equal GLC            81.3080166476        Equal GLC            33.7462530448       

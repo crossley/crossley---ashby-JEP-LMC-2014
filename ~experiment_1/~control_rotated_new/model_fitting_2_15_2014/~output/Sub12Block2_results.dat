@@ -1,0 +1,57 @@
+Fitting results for file: Sub12Block2
+Z limit:    3.00000
+
+Starting Uni X Bound:   50.00000
+Starting Uni Y Bound:   50.00000
+Starting GCC X Bound:   50.00000
+Starting GCC Y Bound:   50.00000
+Starting Hybrid Center:   50.00000   50.00000
+Starting Hybrid Lin Point:    0.00000    0.00000
+Starting Noise:    5.00000
+
+Guessing Model:
+
+Negative Log Likelihood:   69.31472
+BIC for Guessing Model:   138.62944
+
+Biased Guessing Model:
+
+Switch tag: 1
+p:    0.63000
+Negative Log Likelihood:   65.89557
+BIC for Biased Guessing Model:  136.39631
+
+Unidimensional X:
+
+Switch tag: 2
+X Bound:   56.18490
+Noise:   18.97763
+Negative Log Likelihood:   35.65839
+BIC for Unidimensional X:   80.52712
+
+Unidimensional Y:
+
+Switch tag: 2
+Y Bound:   34.85424
+Noise:   48.46571
+Negative Log Likelihood:   74.54819
+BIC for Unidimensional Y:  158.30671
+
+Equal GLC:
+
+Switch tag: 2
+a1:   -0.99817
+a2:    0.06047
+b:   52.73794
+Noise:   18.85961
+Negative Log Likelihood:   35.56600
+BIC for GLC (Equal Variance Case):   84.94751
+
+Best fitting model by BIC:
+Unidimensional X    
+BIC for that model:
+  80.52712
+Best fitting model by Negative Log Likelihood:
+Equal GLC           
+Negative Log Likelihood for that model:
+  35.56600

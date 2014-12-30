@@ -1,0 +1,57 @@
+Fitting results for file: Sub16Block6
+Z limit:    3.00000
+
+Starting Uni X Bound:   50.00000
+Starting Uni Y Bound:   50.00000
+Starting GCC X Bound:   50.00000
+Starting GCC Y Bound:   50.00000
+Starting Hybrid Center:   50.00000   50.00000
+Starting Hybrid Lin Point:    0.00000    0.00000
+Starting Noise:    5.00000
+
+Guessing Model:
+
+Negative Log Likelihood:   69.31472
+BIC for Guessing Model:   138.62944
+
+Biased Guessing Model:
+
+Switch tag: 1
+p:    0.42000
+Negative Log Likelihood:   68.02920
+BIC for Biased Guessing Model:  140.66357
+
+Unidimensional X:
+
+Switch tag: 2
+X Bound:   39.90109
+Noise:   15.85358
+Negative Log Likelihood:   33.31359
+BIC for Unidimensional X:   75.83752
+
+Unidimensional Y:
+
+Switch tag: 2
+Y Bound:   62.45875
+Noise:   49.25500
+Negative Log Likelihood:   72.69908
+BIC for Unidimensional Y:  154.60851
+
+Equal GLC:
+
+Switch tag: 1
+a1:    0.99945
+a2:    0.03324
+b:  -41.66648
+Noise:   15.81254
+Negative Log Likelihood:   33.29186
+BIC for GLC (Equal Variance Case):   80.39923
+
+Best fitting model by BIC:
+Unidimensional X    
+BIC for that model:
+  75.83752
+Best fitting model by Negative Log Likelihood:
+Equal GLC           
+Negative Log Likelihood for that model:
+  33.29186

@@ -1,0 +1,57 @@
+Fitting results for file: Sub22Block4
+Z limit:    3.00000
+
+Starting Uni X Bound:   50.00000
+Starting Uni Y Bound:   50.00000
+Starting GCC X Bound:   50.00000
+Starting GCC Y Bound:   50.00000
+Starting Hybrid Center:   50.00000   50.00000
+Starting Hybrid Lin Point:    0.00000    0.00000
+Starting Noise:    5.00000
+
+Guessing Model:
+
+Negative Log Likelihood:   69.31472
+BIC for Guessing Model:   138.62944
+
+Biased Guessing Model:
+
+Switch tag: 1
+p:    0.51000
+Negative Log Likelihood:   69.29472
+BIC for Biased Guessing Model:  143.19460
+
+Unidimensional X:
+
+Switch tag: 1
+X Bound:   49.76091
+Noise:   49.24860
+Negative Log Likelihood:   76.63912
+BIC for Unidimensional X:  162.48859
+
+Unidimensional Y:
+
+Switch tag: 2
+Y Bound:   49.78613
+Noise:   49.24860
+Negative Log Likelihood:   71.34006
+BIC for Unidimensional Y:  151.89047
+
+Equal GLC:
+
+Switch tag: 2
+a1:    0.21452
+a2:    0.97672
+b:  -58.17120
+Noise:   49.24860
+Negative Log Likelihood:   71.09306
+BIC for GLC (Equal Variance Case):  156.00163
+
+Best fitting model by BIC:
+Guessing            
+BIC for that model:
+ 138.62944
+Best fitting model by Negative Log Likelihood:
+Biased Guessing     
+Negative Log Likelihood for that model:
+  69.29472

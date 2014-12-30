@@ -1,0 +1,57 @@
+Fitting results for file: Sub4Block5
+Z limit:    3.00000
+
+Starting Uni X Bound:   50.00000
+Starting Uni Y Bound:   50.00000
+Starting GCC X Bound:   50.00000
+Starting GCC Y Bound:   50.00000
+Starting Hybrid Center:   50.00000   50.00000
+Starting Hybrid Lin Point:    0.00000    0.00000
+Starting Noise:    5.00000
+
+Guessing Model:
+
+Negative Log Likelihood:   69.31472
+BIC for Guessing Model:   138.62944
+
+Biased Guessing Model:
+
+Switch tag: 2
+p:    0.46000
+Negative Log Likelihood:   68.99438
+BIC for Biased Guessing Model:  142.59392
+
+Unidimensional X:
+
+Switch tag: 1
+X Bound:   48.33485
+Noise:   49.32310
+Negative Log Likelihood:   72.09185
+BIC for Unidimensional X:  153.39403
+
+Unidimensional Y:
+
+Switch tag: 2
+Y Bound:   43.40526
+Noise:   23.30478
+Negative Log Likelihood:   40.97237
+BIC for Unidimensional Y:   91.15508
+
+Equal GLC:
+
+Switch tag: 2
+a1:    0.21835
+a2:    0.97587
+b:  -53.81978
+Noise:   21.92273
+Negative Log Likelihood:   39.29493
+BIC for GLC (Equal Variance Case):   92.40537
+
+Best fitting model by BIC:
+Unidimensional Y    
+BIC for that model:
+  91.15508
+Best fitting model by Negative Log Likelihood:
+Equal GLC           
+Negative Log Likelihood for that model:
+  39.29493
